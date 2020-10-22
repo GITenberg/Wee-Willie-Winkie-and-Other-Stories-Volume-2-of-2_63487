@@ -1,0 +1,35 @@
+_repo: Wee-Willie-Winkie-and-Other-Stories-Volume-2-of-2_63487
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2020-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63487'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Great Britain. Army -- Military life -- Fiction'
+- !lcsh 'Children of military personnel -- Fiction'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcsh 'Children -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The man who would be king -- Wee Willie Winkie -- Baa, baa, black
+  sheep -- His Majesty the King -- The drums of the Fore and Aft.
+title: Wee Willie Winkie, and Other Stories. Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/63487
